@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.39a4229b.css",
-    "main.js": "/static/js/main.065a1140.js",
-    "static/media/YS Display-Regular.eot": "/static/media/YS Display-Regular.4ae68375dd49a60392d6.eot",
-    "static/media/YS Display-Regular.svg": "/static/media/YS Display-Regular.245017715ed727da4f64.svg",
-    "static/media/YS Display-Regular.ttf": "/static/media/YS Display-Regular.ec174fb0cf4ae7d7efd4.ttf",
-    "static/media/YS Display-Regular.woff": "/static/media/YS Display-Regular.1183b8ed8c9089e2019d.woff",
-    "static/media/YS Display-Regular.woff2": "/static/media/YS Display-Regular.406bdc5051337aa2c6fb.woff2",
-    "static/media/logo.svg": "/static/media/logo.ded58ecaee35dc2004bc2de332d551de.svg",
-    "index.html": "/index.html",
-    "static/media/rotate.svg": "/static/media/rotate.e174fb5245bab30eaed4.svg",
-    "static/media/sinked.svg": "/static/media/sinked.0cb8e0af316022c3b30e.svg",
-    "static/media/clock.svg": "/static/media/clock.6f708ad81d0b5da5e788.svg",
-    "static/media/missed.svg": "/static/media/missed.d7aefba46849426ae7b7.svg",
-    "static/media/ship.svg": "/static/media/ship.1c9e931563f3ade307cb.svg",
-    "main.39a4229b.css.map": "/static/css/main.39a4229b.css.map",
-    "main.065a1140.js.map": "/static/js/main.065a1140.js.map"
+    "main.css": "./static/css/main.f18805d9.css",
+    "main.js": "./static/js/main.6aad1cd9.js",
+    "static/media/YS Display-Regular.eot": "./static/media/YS Display-Regular.4ae68375dd49a60392d6.eot",
+    "static/media/YS Display-Regular.svg": "./static/media/YS Display-Regular.245017715ed727da4f64.svg",
+    "static/media/YS Display-Regular.ttf": "./static/media/YS Display-Regular.ec174fb0cf4ae7d7efd4.ttf",
+    "static/media/YS Display-Regular.woff": "./static/media/YS Display-Regular.1183b8ed8c9089e2019d.woff",
+    "static/media/YS Display-Regular.woff2": "./static/media/YS Display-Regular.406bdc5051337aa2c6fb.woff2",
+    "static/media/logo.svg": "./static/media/logo.ded58ecaee35dc2004bc2de332d551de.svg",
+    "index.html": "./index.html",
+    "static/media/rotate.svg": "./static/media/rotate.e174fb5245bab30eaed4.svg",
+    "static/media/sinked.svg": "./static/media/sinked.0cb8e0af316022c3b30e.svg",
+    "static/media/clock.svg": "./static/media/clock.6f708ad81d0b5da5e788.svg",
+    "static/media/missed.svg": "./static/media/missed.d7aefba46849426ae7b7.svg",
+    "static/media/ship.svg": "./static/media/ship.1c9e931563f3ade307cb.svg",
+    "main.f18805d9.css.map": "./static/css/main.f18805d9.css.map",
+    "main.6aad1cd9.js.map": "./static/js/main.6aad1cd9.js.map"
   },
   "entrypoints": [
-    "static/css/main.39a4229b.css",
-    "static/js/main.065a1140.js"
+    "static/css/main.f18805d9.css",
+    "static/js/main.6aad1cd9.js"
   ]
 }
